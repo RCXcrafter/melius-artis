@@ -1,0 +1,111 @@
+#Russian localization for ExtraTic
+
+# Fluids (for smelteries)
+fluid.molten.refined.glowstone=Расплавленный очищенный светокамень
+fluid.molten.osmium=Расплавленный осмий
+
+fluid.molten.pokefennium=Расплавленный покфениум
+fluid.molten.fairy=Расплавленный волшебный металл
+
+# Fluids (for NEI and the fluid blocks in the world)
+tile.molten.refined.glowstone.name=Расплавленный очищенный светокамень
+tile.molten.osmium.name=Расплавленный осмий
+
+tile.molten.pokefennium.name=Расплавленный покфениум
+tile.molten.fairy.name=Расплавленный волшебный металл
+
+# Buckets of molten metals
+item.extratic.bucket.filled.molten.refined.glowstone.name=Ведро расплавленного очищенного светокамня
+item.extratic.bucket.filled.molten.osmium.name=Ведро расплавленного осмия
+
+item.extratic.bucket.filled.molten.pokefennium.name=Ведро расплавленного покфениума
+item.extratic.bucket.filled.molten.fairy.name=Ведро расплавленного волшебного металла
+
+# Materials (for toolparts)
+material.angmanllen=Ангмаллен.
+material.damascus.steel=Дамасскостальн.
+material.hepatizon=Гепатизон.
+
+material.brass=Латун.
+material.electrum=Электрум.
+material.platinum=Платин.
+material.silver=Серебрян.
+
+material.amordrine=Амордрин.
+material.ceruclase=Церукласс.
+material.ignatius=Игнатие.
+material.inolashite=Инолашит.
+material.kalendrite=Календрит.
+material.midasium=Мидасие.
+material.sanguinite=Сангвинит.
+material.shadow.iron=Тёмножелез.
+material.shadow.steel=Тёмностальн.
+material.vulcanite=Вулканит.
+material.vyroxeres=Вироксер.
+
+material.adamantine=Адамантин.
+material.astral.silver=Астральносеребрян.
+material.atlarus=Атларис.
+material.black.steel=Чёрностальн.
+material.carmot=Кармот.
+material.celenegil=Целенегил.
+material.deep.iron=Глубинножелез.
+material.haderoth=Хадерот.
+material.mithril=Мифрил.
+material.orichalcum=Орихалк.
+material.oureclase=Ауркласс.
+material.prometheum=Промете.
+material.quicksilver=Ртутн.
+material.tartarite=Тартарит.
+
+material.desichalkos=Дезихальк.
+material.eximite=Эксимит.
+
+material.bloodwood=Кроваводревесн.
+material.darkwood=Тёмнодревесн.
+material.fusewood=Плавкодревесн.
+material.ghostwood=Призрачнодревесн.
+material.nether.quartz=Нижнекварцев.
+
+material.refined.glowstone=Очищенносветокамен.
+material.osmium=Осмиев.
+
+material.pokefennium=Покфениумн.
+material.fairy=Волшебн.
+
+material.certus.quartz=Истиннокварц.
+
+material.amethyst=Аметистов.
+
+# Toolparts
+part.arrowhead=@material@ наконечник стрелы
+part.axe.head=@material@ обух топора
+part.battle.sign=@material@ боевая табличка
+part.binding=@material@ крепление
+part.chisel.head=@material@ лезвие стамески
+part.chunk=@material@ кусок
+part.crossbar=@material@ поперечная гарда
+part.excavator.head=@material@ пластина копалки
+part.frypan.head=@material@ сковорода
+part.full.guard=@material@ полная гарда
+part.hammer.head=@material@ боёк молота
+part.knife.blade=@material@ лезвие ножа
+part.large.guard=@material@ широкая гарда
+part.large.sword.blade=@material@ большое лезвие меча
+part.largeplate=@material@ большая пластина
+part.lumberaxe.head=@material@ большой обух топора
+part.medium.guard=@material@ малая гарда
+part.pickaxe.head=@material@ обух кирки
+part.scythe.head=@material@ лезвие косы
+part.shovel.head=@material@ штык лопаты
+part.sword.blade=@material@ лезвие меча
+part.toolrod=@material@ стержень
+part.toughbind=@material@ прочное крепление
+part.toughrod=@material@ прочный стержень
+
+# Blocks and ingots
+tile.fairy.block.name=Волшебный блок
+tile.pokefennium.block.name=Покфениумный блок
+
+item.fairy.ingot.name=Волшебный слиток
+item.pokefennium.ingot.name=Покфениумный слиток

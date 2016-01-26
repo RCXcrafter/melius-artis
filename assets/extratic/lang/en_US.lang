@@ -1,0 +1,111 @@
+#English localization for ExtraTic
+
+# Fluids (for smelteries)
+fluid.molten.refined.glowstone=Molten Refined Glowstone
+fluid.molten.osmium=Molten Osmium
+
+fluid.molten.pokefennium=Molten Pokefennium
+fluid.molten.fairy=Molten Fairy
+
+# Fluids (for NEI and the fluid blocks in the world)
+tile.molten.refined.glowstone.name=Molten Refined Glowstone
+tile.molten.osmium.name=Molten Osmium
+
+tile.molten.pokefennium.name=Molten Pokefennium
+tile.molten.fairy.name=Molten Fairy
+
+# Buckets of molten metals
+item.extratic.bucket.filled.molten.refined.glowstone.name=Molten Refined Glowstone Bucket
+item.extratic.bucket.filled.molten.osmium.name=Molten Osmium Bucket
+
+item.extratic.bucket.filled.molten.pokefennium.name=Molten Pokefennium Bucket
+item.extratic.bucket.filled.molten.fairy.name=Molten Fairy Bucket
+
+# Materials (for toolparts)
+material.angmanllen=Angmallen
+material.damascus.steel=Damascus Steel
+material.hepatizon=Hepatizon
+
+material.brass=Brass
+material.electrum=Electrum
+material.platinum=Platinum
+material.silver=Silver
+
+material.amordrine=Amordrine
+material.ceruclase=Ceruclase
+material.ignatius=Ignatius
+material.inolashite=Inolashite
+material.kalendrite=Kalendrite
+material.midasium=Midasium
+material.sanguinite=Sanguinite
+material.shadow.iron=Shadow Iron
+material.shadow.steel=Shadow Steel
+material.vulcanite=Vulcanite
+material.vyroxeres=Vyroxeres
+
+material.adamantine=Adamantine
+material.astral.silver=Astral Silver
+material.atlarus=Atlarus
+material.black.steel=Black Steel
+material.carmot=Carmot
+material.celenegil=Celenegil
+material.deep.iron=Deep Iron
+material.haderoth=Haderoth
+material.mithril=Mithril
+material.orichalcum=Orichalcum
+material.oureclase=Oureclase
+material.prometheum=Prometheum
+material.quicksilver=Quicksilver
+material.tartarite=Tartarite
+
+material.desichalkos=Desichalkos
+material.eximite=Eximite
+
+material.bloodwood=Bloodwood
+material.darkwood=Darkwood
+material.fusewood=Fusewood
+material.ghostwood=Ghostwood
+material.nether.quartz=Nether Quartz
+
+material.refined.glowstone=Refined Glowstone
+material.osmium=Osmium
+
+material.pokefennium=Pokefennium
+material.fairy=Fairy
+
+material.certus.quartz=Certus Quartz
+
+material.amethyst=Amethyst
+
+# Toolparts
+part.arrowhead=@material@ Arrowhead
+part.axe.head=@material@ Axe Head
+part.battle.sign=@material@ Battle Sign
+part.binding=@material@ Binding
+part.chisel.head=@material@ Chisel Head
+part.chunk=@material@ Chunk
+part.crossbar=@material@ Crossbar
+part.excavator.head=@material@ Excavator Head
+part.frypan.head=@material@ Pan Head
+part.full.guard=@material@ Full Guard
+part.hammer.head=@material@ Hammer Head
+part.knife.blade=@material@ Knife Blade
+part.large.guard=@material@ Large Guard
+part.large.sword.blade=@material@ Large Sword Blade
+part.largeplate=@material@ Large Plate
+part.lumberaxe.head=@material@ Broad Axe Head
+part.medium.guard=@material@ Medium Guard
+part.pickaxe.head=@material@ Pickaxe Head
+part.scythe.head=@material@ Scythe Head
+part.shovel.head=@material@ Shovel Head
+part.sword.blade=@material@ Sword Blade
+part.toolrod=@material@ Tool Rod
+part.toughbind=@material@ Tough Binding
+part.toughrod=@material@ Tough Rod
+
+# Blocks and ingots
+tile.fairy.block.name=Fairy Block
+tile.pokefennium.block.name=Pokefennium Block
+
+item.fairy.ingot.name=Fairy Ingot
+item.pokefennium.ingot.name=Pokefennium Ingot
