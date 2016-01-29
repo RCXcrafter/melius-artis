@@ -1,5 +1,6 @@
 # Melius Artis
 That's latin for better craft.
+
 I don't always like te textures in mods, so here is my attempt at making them slightly better.
 Eventually I also want to make all the textures between all the mods look consistent, but that might take a while.
 If you think my (well, not all of them are mine) textures are not better, that's fine and please tell me why you think that. The goal of this pack is to have better textures.
