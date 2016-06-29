@@ -3,7 +3,7 @@
 		DIAMOND
 		DULL
 		EMERALD
-		FIERY
+dun		FIERY
 		FINE
 		FLINT
 		FLUID
